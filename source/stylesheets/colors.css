@@ -1,0 +1,30 @@
+.bg-orange {
+    background-color: #F58840;
+    color: rgb(248, 239, 231);
+}
+
+.bg-red {
+    background-color: #B85252;
+    color: #fac9c9;
+}
+
+.bg-skin {
+    background-color: #F5C6A5;
+    color: #885353;
+}
+
+.bg-peach {
+    background-color: #FF7777;
+    color: #852747;
+}
+
+.bg-magenta {
+    background-color: #A2416B;
+    color: #f7b5cb;
+}
+
+.bg-maroon {
+    background-color: #852747;
+    color: #f5aaa5;
+}
+
